@@ -1,0 +1,5 @@
+SQLAlchemy
+pymysql
+psycopg2-binary
+faker
+pymongo
